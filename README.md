@@ -1,4 +1,13 @@
-# Javascript Learning Path
+# Project: Troy_Living
+##### 社交类，即时交易，拼单，生活资讯服务平台。目前主要面向Troy AL留学生及在校学生人群。主要提供更全面的资讯分类，在线二手交易及广告投放等校园生活类服务。
+
+## 主营业务
+* CMS自媒体资讯发布：支持订阅，推送（广告投放）
+* C2C支付：一对一支付，一对多支付（平单）
+* 社交
+* 语义分析（大数据分析）
+
+## Javascript Learning Path
 
 ### Basic & Tools (辅助工具)
 * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
@@ -43,3 +52,4 @@
 * Express.js or Koa.js
 
 ### References
+> UI: ["Flooz me" app](https://www.flooz.me)
