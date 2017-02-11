@@ -5,51 +5,17 @@
 * CMS自媒体资讯发布：支持订阅，推送（广告投放）
 * C2C支付：一对一支付，一对多支付（平单）
 * 社交
-* 语义分析（大数据分析）
+* 语义分析（大数据分析，后台）
 
-## Javascript Learning Path
+## 组织结构
 
-### Basic & Tools (辅助工具)
-* [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
-* [参考教程](http://javascript.ruanyifeng.com)
-* [MDN](https://developer.mozilla.org/en-US/docs/Web)
-* Sublimetext / ATOM
-* Markdown
-* Bash/ssh
-* Git
-* Nginx 服务器
+## 技术选型
 
-### Step0 (基础阶段)
-* HTTP Protocol (HTTP 协议)
-* HTML/HTML5
-* CSS/CSS3
-* JSON
-* **AJAX*
+## 产品定位
 
-### Step1 (理论阶段)
-* JS函数式编程 Functional Paradigm
-* JS可维护
-* JS Patterns (设计模式)
+## 市场分析
 
-### Step2 (结构雏形阶段)
-* RequireJS
-* AMD or CMD
-* MVC or MVVM
+## 知识产权
 
-### Step3 (项目阶段)
-*  Project management
-> * Work Stream
-> * Using Git
-> * Using Redmine
-> * Front-end Rules
-> * Back-end Rules
-> * RESTful API
-*  Deployment
-*  Units Test (单元测试)
+## 外部支持
 
-### Final
-* Node.js + MongoDB
-* Express.js or Koa.js
-
-### References
-> UI: ["Flooz me" app](https://www.flooz.me)
