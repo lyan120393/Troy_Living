@@ -76,12 +76,14 @@ Git 使用方法参考
 ## 正规操作流程
 ### 警告：不要编辑 master 分支
 ### 第一次获取项目
-$ git init 
-$ git remote add <your-github-repo-ssh-url>
+
+	$ git init 
+	$ git remote add <your-github-repo-ssh-url>
 
 ### 编辑上传代码
-$ git pull origin <branch>
-$ git add .
-$ git commit -am "notes"
-$ git push origin <branch>
+
+	$ git pull origin <branch>
+	$ git add .
+	$ git commit -am "notes"
+	$ git push origin <branch>
 
